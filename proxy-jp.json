@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tver.jp"
+      ],
+      "ip_cidr": [
+        "50.7.158.194/32"
+      ]
+    }
+  ]
+}

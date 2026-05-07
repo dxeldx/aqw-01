@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hinet.net",
+        "4gtv.tv",
+        "api2.4gtv.tv",
+        "z2u.com",
+        "ofiii.com",
+        "cdn.hinet.net",
+        "infini.money"
+      ],
+      "ip_cidr": [
+        "123.51.231.132/32",
+        "60.250.121.103/32"
+      ]
+    }
+  ]
+}

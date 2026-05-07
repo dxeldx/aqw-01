@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "starhubgo.com",
+        "stream-link.org"
+      ],
+      "domain_keyword": [
+        "astro",
+        "wavve"
+      ]
+    }
+  ]
+}

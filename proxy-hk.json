@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tvb.com",
+        "edgeware.tvb.com",
+        "hrtn.net"
+      ]
+    }
+  ]
+}
